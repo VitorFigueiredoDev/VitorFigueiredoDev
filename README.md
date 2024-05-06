@@ -11,7 +11,8 @@
     <img  align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5">
     <img  align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="html5">
     <img  align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="html5">
-    
+    <img align="right" src="https://i.pinimg.com/originals/85/9c/84/859c843258e41f3fa647a920bb3b7fe1.gif" alt="html5" width="150" height="150">
+
 </div>
 <br>
 Dev e Designer. Entusiasta de tecnologia apaixonado por desenvolvimento de software. Conecte-se comigo para trocar ideias e experiências!
@@ -21,7 +22,7 @@ Dev e Designer. Entusiasta de tecnologia apaixonado por desenvolvimento de softw
 <div>
     <a href="https://www.linkedin.com/in/vitor-figueired0/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
+    </a><br>
     <a href="https://www.instagram.com/vitorfigueiredo0f/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
