@@ -13,7 +13,16 @@
     <img  align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="html5">
     
 </div>
-
 <br>
-
 Dev e Designer. Entusiasta de tecnologia apaixonado por desenvolvimento de software. Conecte-se comigo para trocar ideias e experiências!
+<br>
+<h2>Redes Sociais</h2>
+
+<div>
+    <a href="https://www.linkedin.com/in/vitor-figueired0/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/vitorfigueiredo0f/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+</div>
