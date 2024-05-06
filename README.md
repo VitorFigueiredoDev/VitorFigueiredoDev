@@ -14,9 +14,6 @@
     
 </div>
 
-<h2>Redes Sociais</h2>
 <br>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
 
-<br><br/>
 Dev e Designer. Entusiasta de tecnologia apaixonado por desenvolvimento de software. Conecte-se comigo para trocar ideias e experiências!
